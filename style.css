@@ -1,0 +1,97 @@
+body{
+	background-color: rgb(50, 50, 50);
+	color: black;
+	font-family: times;
+}
+
+a {
+	text-decoration: none;
+	color: #B8B8D1; 
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center; display: block;
+}
+
+a:hover {
+	color: black;
+}
+
+h1 {
+	text-align: center; display: block;
+	color: #fae0df;, bold;
+	font-family: times;
+	letter-spacing: 15px;
+}
+
+
+h2 {
+    display: block;
+    font-family: times;
+    color: #92817a;
+    font-size: 1.5em;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: 8px;
+    margin-inline-end: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+	color: #A9927D;
+}
+
+p{
+	text-align: center;
+	color: #fae0df;
+	font-family: helvetica;
+}
+
+li, ol {
+	font-family: helvetica;
+	color: #fae0df;
+}
+
+img{
+	display: block;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+div{
+	background: white;
+	padding: 20px;
+	margin: 50px;
+	border-top: 1px solid white;
+	border-right: 2px dotted black;
+	background-color: #965d62;
+	box-shadow: 2px 4px 10px;
+	margin-top: 20px;
+}
+
+button {
+	background-color: #55505C;
+	color: black;
+	padding: 0,20px;
+	margin: 4px;
+}
+
+#banner h2{
+	color: #55505C;
+}
+
+#hello h2{
+	color: #55505C;
+}
+
+#hi h2{
+	color: #55505C;
+}
+
+
+
+
+
+
